@@ -55,7 +55,6 @@ Before analysis, the data underwent a rigorous "scrubbing" process:
 
 
 ## Recommendations
-## Recommendations
 •  Target High-Volume Causes: Launch public safety campaigns specifically targeting "Following Too Closely" and "Failure to Yield." Since these are the top human-error causes, driver education is the most cost-effective way to reduce crash volume.
 •  Infrastructure Audits: Conduct immediate safety reviews of Divided Highways and Four-lane roadways. The high concentration of crashes in these areas suggests a need for better lane markings, longer merge lanes, or adjusted speed limits.
 •  Intersection Safety: Prioritize the installation of traffic control devices (lights or stop signs) at intersections that currently have "None." Data shows that controlled intersections have significantly lower fatality rates.
@@ -63,7 +62,8 @@ Before analysis, the data underwent a rigorous "scrubbing" process:
 •  Data-Driven Budgeting: Allocate a portion of the 2026 budget to automated traffic monitoring systems on the top 5 high-risk roadways to gather real-time data on speeding and light-running.
 
 
-
+## Link
+[Interactive Power BI](https://app.powerbi.com/view?r=eyJrIjoiMjI5N2E0YTgtNGQ1OC00NGI0LWJlOTMtMTcxOTVmN2U5ZjgxIiwidCI6IjI2ZGJlMWMyLTVhZDItNDRjZi1hNzMyLTJkZmM3YzQ3YWUxYiJ9)
 
 
 
