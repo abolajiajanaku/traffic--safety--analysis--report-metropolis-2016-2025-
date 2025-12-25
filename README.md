@@ -55,11 +55,11 @@ Before analysis, the data underwent a rigorous "scrubbing" process:
 
 
 ## Recommendations
-•  Target High-Volume Causes: Launch public safety campaigns specifically targeting "Following Too Closely" and "Failure to Yield." Since these are the top human-error causes, driver education is the most cost-effective way to reduce crash volume.
-•  Infrastructure Audits: Conduct immediate safety reviews of Divided Highways and Four-lane roadways. The high concentration of crashes in these areas suggests a need for better lane markings, longer merge lanes, or adjusted speed limits.
-•  Intersection Safety: Prioritize the installation of traffic control devices (lights or stop signs) at intersections that currently have "None." Data shows that controlled intersections have significantly lower fatality rates.
-•  Resource Allocation: Schedule increased traffic enforcement and emergency response standby during the identified peak traffic hours. Aligning personnel with these high-risk windows will improve response times and deter dangerous driving behavior.
-•  Data-Driven Budgeting: Allocate a portion of the 2026 budget to automated traffic monitoring systems on the top 5 high-risk roadways to gather real-time data on speeding and light-running.
+- Target High-Volume Causes: Launch public safety campaigns specifically targeting "Following Too Closely" and "Failure to Yield." Since these are the top human-error causes, driver education is the most cost-effective way to reduce crash volume.
+-  Infrastructure Audits: Conduct immediate safety reviews of Divided Highways and Four-lane roadways. The high concentration of crashes in these areas suggests a need for better lane markings, longer merge lanes, or adjusted speed limits.
+-  Intersection Safety: Prioritize the installation of traffic control devices (lights or stop signs) at intersections that currently have "None." Data shows that controlled intersections have significantly lower fatality rates.
+-  Resource Allocation: Schedule increased traffic enforcement and emergency response standby during the identified peak traffic hours. Aligning personnel with these high-risk windows will improve response times and deter dangerous driving behavior.
+-  Data-Driven Budgeting: Allocate a portion of the 2026 budget to automated traffic monitoring systems on the top 5 high-risk roadways to gather real-time data on speeding and light-running.
 
 
 ## Link
